@@ -1,0 +1,7 @@
+[tools]
+jj = "latest"
+ruby = "3.4.4"
+
+[tasks.install]
+description = "install dependencies"
+run = "bundle install"
